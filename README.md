@@ -30,3 +30,4 @@ Nota: Todas las interactividades se dan al pulsar la tecla 'A' a excepcion de "M
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
+En el desarrollo de este trabajo pude comprender conceptos importantes sobre el como funciona el cerebro humano respecto a lo que percibe visualmente, y el como influye tantos los colores como la gemotria de lo que se observa para confundirnos y distorsionar lo que percibimos. A futuro desaria estudiar mas las ilusiones de tipo cognitivo, ya que me resulta interesante el como se engaña al perceptor solamente con la geometria/diseño de la ilusion, sin ayuda de añadidos como el movimiento y el color.
