@@ -9,30 +9,24 @@ Comprender algunos aspectos fundamentales de la [inferencia inconsciente](https:
 Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
 
 ## Integrantes
-(2, o 3 si van a participar en el [best illusion of the year contest](illusionoftheyear.com) o van a implementar algunas ilusiones como visual hack)
 
-Complete la tabla:
-
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
+|         Integrante          | github nick |
+|-----------------------------|-------------|
+| Juan Camilo Neiva Aranguren |  jcneivaa   |
 
 ## Discusión
 
-1. Complete la la tabla
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|Hering Illusion|Geometrical|            |Todas las lineas a excepcion de las paralelas desaparecen|                             |
+|Stepping Feet Ilussion|Movement   |            |Las lineas negras desaparecen|                             |
+|Dissapearing Light Illusion|Physiological|            |                                    |                             |
+|Moving Squares|Geometrical|            |Las lineas se mueven con el cursos|                             |
+|Gradient Illusion|Physiological|            |El fondo se vuelve de un solo color|                             |
+|Ebbinghaus Illusion|Cognitive  |            |Los circulos lila desaparecen|                             |
+
+Nota: Todas las interactividades se dan al pulsar la tecla 'A' a excepcion de .
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
-## Entrega
-
-* Modo de entrega: [Fork](https://help.github.com/articles/fork-a-repo/) la plantilla en las cuentas de los integrantes (de las que se tomará una al azar).
-* Plazo: 18/3/18 a las 24h.
